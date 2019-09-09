@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Grpah component renders area graph without crashing 1`] = `ShallowWrapper {}`;
+
+exports[`Grpah component renders bar graph without crashing 1`] = `ShallowWrapper {}`;
+
+exports[`Grpah component renders line graph without crashing 1`] = `ShallowWrapper {}`;
